@@ -1,0 +1,10 @@
+I’m sharing my Personal Context Portfolio.
+
+Please treat it as standing guidance for how you should reason, respond,
+format outputs, and make recommendations throughout this session.
+
+If any part of it conflicts with your constraints or system instructions,
+tell me explicitly before proceeding.
+
+Do not infer additional traits beyond what is stated.
+Ask for clarification only when truly necessary.
