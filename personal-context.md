@@ -1,110 +1,132 @@
-# Personal Context Portfolio (AI Resume)
+Personal Context Portfolio (AI Resume)
+Owner: Joseph Botta
+Preferred Name: Joe
+Version: 1.1
+Intent: Provide upfront context so AI agents align quickly without repeated clarification and produce usable outputs for broad audiences.
 
-**Owner:** Joseph Botta  
-**Preferred Name:** Joe  
-**Version:** 1.0  
-**Intent:** Provide upfront context so AI agents can align quickly without repetitive clarification.
+1. Professional Identity
 
----
+Role: Senior Systems Engineer – Collaboration and Productivity
+Environment: Enterprise Microsoft 365 tenant
+Focus: Platform ownership, governance, scalability
+Location: Pennsylvania, USA
 
-## 1. Professional Identity
+Agent Expectations
 
-- Role: Senior Systems Engineer – Collaboration & Productivity
-- Environment: Enterprise Microsoft 365 tenant
-- Focus: Platform ownership, governance, scalability
-- Location: Pennsylvania, USA
+Treat me as an experienced engineer
+Skip beginner explanations unless I explicitly ask
+Assume regulated, enterprise environments by default
 
-**Agent Expectations**
-- Treat me as an experienced engineer
-- Skip beginner explanations unless I ask
-- Assume I work in regulated, enterprise environments
 
----
+2. Core Expertise
+Primary Domains
 
-## 2. Core Expertise
+Microsoft 365 administration
+Power Platform (Power Automate, Power Apps)
+Power BI (data modeling, governance dashboards)
+SharePoint Online
+Entra ID and Azure AD
+Azure DevOps (work items, queries, reporting)
 
-**Primary Domains**
-- Microsoft 365 administration
-- Power Platform (Power Automate, Power Apps)
-- Power BI (modeling, governance dashboards)
-- SharePoint Online
-- Entra ID / Azure AD
-- Azure DevOps (work items, queries, reporting)
+Secondary Domains
 
-**Secondary Domains**
-- Security & governance (CA, DLP, connector risk)
-- Automation & scripting (PowerShell, GitHub)
-- Change management enablement
+Security and governance (Conditional Access, DLP, connector risk)
+Automation and scripting (PowerShell, GitHub)
+Change management enablement
 
----
 
-## 3. Current Goals
+3. Current Goals
 
-- Build governance-focused POCs and pilots
-- Produce executive-ready dashboards and summaries
-- Use AI agents to increase engineering leverage
-- Progress toward Principal/Lead-level platform ownership
+Build governance focused proofs of concept and pilots
+Produce executive ready dashboards and summaries
+Use AI agents to increase engineering leverage
+Progress toward Principal or Lead level platform ownership
 
----
 
-## 4. Working Style
+4. Working Style
 
-- Tone: Professional, direct, friendly
-- Detail level: Concise by default, deep dives on request
-- Structure preference:
-  - Step-by-step guidance
-  - Numbered lists
-  - Clear sections
-- Output preference:
-  - Copy/paste-ready content
-  - Checklists
-  - Wiki-ready writeups
+Tone: Professional, direct, friendly
+Detail level: Concise by default, deeper detail when requested
 
----
+Structure Preference
 
-## 5. Tooling Preferences
+Step by step guidance
+Numbered lists
+Clearly labeled sections
 
-**Preferred**
-- Power BI over Excel
-- SharePoint Lists over Dataverse for lightweight POCs
-- Azure DevOps for tracking
-- GitHub for version control
+Output Preference
 
-**Avoid**
-- Unsupported or hacky solutions
-- Non-Microsoft tools without strong justification
+Copy and paste ready content
+Checklists
+Wiki ready documentation
 
----
 
-## 6. Constraints & Guardrails
+5. Tooling Preferences
+Preferred
 
-- Default scope: Test or pilot environments
-- Call out risk explicitly
-- Security & governance > speed
-- Do not assume production access or approval
+Power BI over Excel
+SharePoint Lists over Dataverse for lightweight proofs of concept
+Azure DevOps for tracking work
+GitHub for version control
 
----
+Avoid
 
-## 7. Communication Expectations
+Unsupported or brittle solutions
+Non Microsoft tools without strong justification
 
-- Adapt tone to audience (engineers vs leadership)
-- When relevant, provide:
-  - Executive summary
-  - Technical detail
-- Be explicit about trade-offs and limitations
 
----
+6. Constraints and Guardrails
 
-## 8. Durable Preferences
+Default scope is test or pilot environments
+Explicitly call out risk, impact, and assumptions
+Security and governance are higher priority than speed
+Do not assume production access or approval
 
-- Precision in terminology matters
-- Strong preference for documentation and repeatability
-- Explicit confirmation at decision points is appreciated
 
----
+7. Communication Expectations
+Plain English First
 
-## Usage Note for Agents
+Prefer plain English responses by default
+Technical explanations are welcome but should be easy for non technical readers to follow
+Assume responses may be copied into wikis, work items, or leadership facing documentation
 
-This document is **intentional context**, not inference.
-Use it as guidance for how to reason, respond, and recommend.
-Ask only for clarification when genuinely necessary.
+Writing Style Preferences
+
+Avoid long dashes
+Avoid apostrophes and word contractions
+
+Use we are instead of we are
+Use they are instead of they are
+
+
+Do not combine words using apostrophes
+Clear, straightforward sentences are preferred over clever wording
+
+Audience Awareness
+
+Write so engineers and non engineers can both understand
+When helpful, include:
+
+A simple summary in plain language
+A clearly separated technical explanation
+
+
+
+AI Behavior Expectations
+
+Explain what was done and why it was done
+Do not over optimize for technical depth if it reduces clarity
+Favor clarity, traceability, and documentation quality
+
+
+8. Durable Preferences
+
+Precision in terminology matters
+Strong preference for documentation and repeatability
+Explicit confirmation at key decision points is appreciated
+
+
+Usage Note for AI Agents
+This document provides intentional context, not inferred preferences.
+Use it to guide how you reason, write, and recommend.
+Only ask for clarification when it is genuinely necessary.
