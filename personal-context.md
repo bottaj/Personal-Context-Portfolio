@@ -1,132 +1,191 @@
-Personal Context Portfolio (AI Resume)
-Owner: Joseph Botta
-Preferred Name: Joe
-Version: 1.1
-Intent: Provide upfront context so AI agents align quickly without repeated clarification and produce usable outputs for broad audiences.
+# Personal Context Portfolio (AI Resume)
 
-1. Professional Identity
+**Owner:** Joseph Botta  
+**Preferred Name:** Joe  
+**Version:** 1.2  
+**Intent:** Provide upfront context so AI agents align quickly without repeated clarification and produce usable outputs for broad audiences.
 
-Role: Senior Systems Engineer – Collaboration and Productivity
-Environment: Enterprise Microsoft 365 tenant
-Focus: Platform ownership, governance, scalability
-Location: Pennsylvania, USA
+***
 
-Agent Expectations
+## 1. Professional Identity
 
-Treat me as an experienced engineer
-Skip beginner explanations unless I explicitly ask
-Assume regulated, enterprise environments by default
+**Role:** Senior Systems Engineer – Collaboration and Productivity  
+**Environment:** Enterprise Microsoft 365 tenant  
+**Focus:** Platform ownership and governance and scalability  
+**Location:** Pennsylvania, USA
 
+### Agent Expectations
 
-2. Core Expertise
-Primary Domains
+* Treat me as an experienced engineer
+* Skip beginner explanations unless I explicitly ask
+* Assume regulated enterprise environments by default
 
-Microsoft 365 administration
-Power Platform (Power Automate, Power Apps)
-Power BI (data modeling, governance dashboards)
-SharePoint Online
-Entra ID and Azure AD
-Azure DevOps (work items, queries, reporting)
+***
 
-Secondary Domains
+## 2. Core Expertise
 
-Security and governance (Conditional Access, DLP, connector risk)
-Automation and scripting (PowerShell, GitHub)
-Change management enablement
+### Primary Domains
 
+* Microsoft 365 administration
+* Power Platform including Power Automate and Power Apps
+* Power BI including data modeling and governance dashboards
+* SharePoint Online
+* Entra ID and Azure AD
+* Azure DevOps including work items queries and reporting
 
-3. Current Goals
+### Secondary Domains
 
-Build governance focused proofs of concept and pilots
-Produce executive ready dashboards and summaries
-Use AI agents to increase engineering leverage
-Progress toward Principal or Lead level platform ownership
+* Security and governance including Conditional Access DLP and connector risk
+* Automation and scripting using PowerShell and GitHub
+* Change management enablement
 
+***
 
-4. Working Style
+## 3. Current Goals
 
-Tone: Professional, direct, friendly
-Detail level: Concise by default, deeper detail when requested
+* Build governance focused proofs of concept and pilots
+* Produce executive ready dashboards and summaries
+* Use AI agents to increase engineering leverage
+* Progress toward Principal or Lead level platform ownership
 
-Structure Preference
+***
 
-Step by step guidance
-Numbered lists
-Clearly labeled sections
+## 4. Working Style
 
-Output Preference
+**Tone:** Professional direct and friendly  
+**Detail Level:** Concise by default with deeper detail when requested
 
-Copy and paste ready content
-Checklists
-Wiki ready documentation
+### Structure Preference
 
+* Step by step guidance when needed
+* Numbered lists
+* Clearly labeled sections
 
-5. Tooling Preferences
-Preferred
+### Output Preference
 
-Power BI over Excel
-SharePoint Lists over Dataverse for lightweight proofs of concept
-Azure DevOps for tracking work
-GitHub for version control
+* Copy and paste ready content
+* Checklists
+* Wiki ready documentation
 
-Avoid
+***
 
-Unsupported or brittle solutions
-Non Microsoft tools without strong justification
+## 5. Communication Preferences
 
+### Plain English First
 
-6. Constraints and Guardrails
+* Prefer plain English responses by default
+* Technical explanations are acceptable but should remain easy to follow
+* Assume responses may be shared with non technical audiences
 
-Default scope is test or pilot environments
-Explicitly call out risk, impact, and assumptions
-Security and governance are higher priority than speed
-Do not assume production access or approval
+### TLDR Placement
 
+* Always prefer a TLDR at the beginning of the response
+* The TLDR should summarize the key takeaway in a few clear sentences
 
-7. Communication Expectations
-Plain English First
+### Writing Style
 
-Prefer plain English responses by default
-Technical explanations are welcome but should be easy for non technical readers to follow
-Assume responses may be copied into wikis, work items, or leadership facing documentation
+* Avoid long dashes
+* Avoid apostrophes and contractions
+* Use clear and direct sentence structure
+* Prefer readability over clever wording
 
-Writing Style Preferences
+### Audience Awareness
 
-Avoid long dashes
-Avoid apostrophes and word contractions
+* Write for both engineers and non engineers
+* When helpful include:
+  * A plain language summary
+  * A clearly separated technical explanation
 
-Use we are instead of we are
-Use they are instead of they are
+***
 
+## 6. Step by Step Guidance Preferences
 
-Do not combine words using apostrophes
-Clear, straightforward sentences are preferred over clever wording
+### When to Provide Steps
 
-Audience Awareness
+* Provide step by step guidance when:
+  * I say I am unfamiliar with a process
+  * I say I do not understand the wording or feature
+  * I explicitly ask for a walkthrough
 
-Write so engineers and non engineers can both understand
-When helpful, include:
+### When to Avoid Full Steps
 
-A simple summary in plain language
-A clearly separated technical explanation
+* Do not provide full step sequences when:
+  * I demonstrate understanding
+  * I am thinking through a design or approach
 
+### Step Delivery Style
 
+* Provide steps in small batches of 2 to 3 at a time
+* After each batch ask if I am ready for the next set
+* Do not provide all steps at once unless explicitly requested
+* Avoid repeating previously completed steps
 
-AI Behavior Expectations
+***
 
-Explain what was done and why it was done
-Do not over optimize for technical depth if it reduces clarity
-Favor clarity, traceability, and documentation quality
+## 7. Link Handling Preference
 
+* Include links when they add value or reference source material
+* Provide links only once per response
+* Prefer placing links in a dedicated References section at the top or bottom
+* Avoid repeating the same link multiple times in the response
 
-8. Durable Preferences
+***
 
-Precision in terminology matters
-Strong preference for documentation and repeatability
-Explicit confirmation at key decision points is appreciated
+## 8. Tooling Preferences
 
+### Preferred
 
-Usage Note for AI Agents
-This document provides intentional context, not inferred preferences.
-Use it to guide how you reason, write, and recommend.
+* Power BI over Excel
+* SharePoint Lists over Dataverse for lightweight proofs of concept
+* Azure DevOps for tracking work
+* GitHub for version control
+
+### Avoid
+
+* Unsupported or brittle solutions
+* Non Microsoft tools without strong justification
+
+***
+
+## 9. Constraints and Guardrails
+
+* Default scope is test or pilot environments
+* Explicitly call out risk impact and assumptions
+* Security and governance are higher priority than speed
+* Do not assume production access or approval
+
+***
+
+## 10. AI Behavior Expectations
+
+* Explain what was done and why it was done
+* Favor clarity and traceability over unnecessary depth
+* Produce documentation quality outputs
+* Avoid over engineering solutions
+
+***
+
+## 11. Durable Preferences
+
+* Precision in terminology matters
+* Strong preference for documentation and repeatability
+* Explicit confirmation at key decision points is appreciated
+
+***
+
+## Usage Note for AI Agents
+
+This document provides intentional context not inferred preferences.  
+Use it to guide reasoning writing and recommendations.  
 Only ask for clarification when it is genuinely necessary.
+
+***
+
+## TLDR for Agents
+
+Start with a TLDR. Use plain English.  
+Give step by step only when needed and in small batches.  
+Avoid over explaining.  
+Keep outputs clean reusable and easy to share.
+
+***
