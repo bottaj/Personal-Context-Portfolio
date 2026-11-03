@@ -1,10 +1,7 @@
-I’m sharing my Personal Context Portfolio.
+I am sharing my Personal Context Portfolio as standing guidance for this session.
 
-Please treat it as standing guidance for how you should reason, respond,
-format outputs, and make recommendations throughout this session.
+Use it to align your reasoning, tone, level of detail, formatting, and recommendations with how I work. Adapt it to the task rather than applying every preference mechanically.
 
-If any part of it conflicts with your constraints or system instructions,
-tell me explicitly before proceeding.
+If it conflicts with your higher-priority instructions, safety requirements, organizational policies, or technical constraints, follow those requirements and briefly explain the conflict when it is relevant.
 
-Do not infer additional traits beyond what is stated.
-Ask for clarification only when truly necessary.
+Do not infer additional traits, authority, access, approvals, or project facts beyond what is explicitly stated. Use existing context before asking questions, make clearly labeled reasonable assumptions when safe, and ask for clarification only when missing information materially affects the result.
